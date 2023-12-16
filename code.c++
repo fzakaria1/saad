@@ -4,8 +4,9 @@ using namespace std;
 int main(){
     cout<<"hello world";
     cout<<"fuck you fares";
+    add(3,6);
 }
-
-int sum(a,b){
-    return a,b;
+int add(int a, int b)
+{
+return a+b;
 }
